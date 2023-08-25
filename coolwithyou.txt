@@ -3,3 +3,5 @@
 3
 4
 add 5 test 5
+takeit add 5
+5
